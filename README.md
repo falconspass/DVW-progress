@@ -1,1 +1,1 @@
-Hey there! This document will be used to share how DWR progress is going. Initially, we can know that I have gotten to know how login works,
+Hey there! This document will be used to share how DWR progress is going. Initially, we can know that I have gotten to know how login works. For now the app still hasn't loaded to islands despite repeated attempts to load it via mock servers.
